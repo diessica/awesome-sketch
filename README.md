@@ -21,6 +21,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
   - [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
   - [Mastering the Bézier Curve in Sketch](https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb)
   - [10 Tips & Tricks for Sketch](http://saloon.io/10-tips-tricks-for-sketch/)
+  - [Typography in Sketch 3: Linked Text Styles](https://medium.com/@ericajaclyn/typography-in-sketch-3-linked-text-styles-9946a32af688)
 
 - Community
   - [TeamSketch](http://teamsketch.io/), a community for Sketch designers powered by Slack
@@ -37,6 +38,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
   - (Resources) [SketchLand](http://sketch.land)
   - (Resources) [SketchResources](http://sketchresources.com/)
   - [SketchTips](http://www.sketchtips.info/), a blog about Sketch
+  - [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
 - Plugins 
   > A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
