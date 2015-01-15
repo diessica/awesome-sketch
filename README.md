@@ -22,6 +22,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
   - [Mastering the Bézier Curve in Sketch](https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb)
   - [10 Tips & Tricks for Sketch](http://saloon.io/10-tips-tricks-for-sketch/)
   - [Typography in Sketch 3: Linked Text Styles](https://medium.com/@ericajaclyn/typography-in-sketch-3-linked-text-styles-9946a32af688)
+  - [11 tips for prototyping with Sketch](http://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/)
 
 - Community
   - [TeamSketch](http://teamsketch.io/), a community for Sketch designers powered by Slack
