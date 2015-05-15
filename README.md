@@ -44,13 +44,16 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
 - Plugins 
   > A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
 
-  - Absolutely essential ones
+  - Must-have
     - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
     - [RenameIt](https://github.com/rodi01/RenameIt)
     - [Sketch Measure](https://github.com/utom/sketch-measure)
     - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
     - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
     - [Page Switch](https://github.com/mauehara/sketch-page-switch)
+  - Nice-to-have
+    - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
+    - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
   - Where do you get more
     - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins-for-sketch.html)
     - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
