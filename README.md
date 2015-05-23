@@ -63,3 +63,5 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
 
 ### Keep up to date!
 Sketch has got a **fast-growing community**. Joining them (*see Community section ↑*), following their [blog](http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://bohemian.curated.co/) are the best ways to keep up to date so far.
+
+###### Also check out more [awesome lists](https://github.com/sindresorhus/awesome) ;-)
