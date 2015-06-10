@@ -55,7 +55,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
     - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
   - Where do you get more
-    - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins-for-sketch.html)
+    - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
     - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
     - [SketchPlugins mailing list](http://sketchplugins.com/)
     - [Awesome Sketch Plugins](http://awesome-sket.ch/)
