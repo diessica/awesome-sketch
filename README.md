@@ -51,6 +51,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
     - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
     - [Page Switch](https://github.com/mauehara/sketch-page-switch)
+    - [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout)
   - Nice-to-have
     - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
     - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
