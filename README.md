@@ -11,7 +11,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
 * [Plugins](#plugins)
 
 ## Videos
-- **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (19 *awesome* lessons)
+- **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (29+ *awesome* lessons)
 - [LearnSketch channel](https://www.youtube.com/user/learnsketch/videos)
 - [Sketch 3 for iOS App Design Step by Step](https://www.youtube.com/watch?v=6SyFaRNVuUA)
 
