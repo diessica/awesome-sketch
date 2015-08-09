@@ -7,6 +7,8 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
 * [Videos](#videos)
 * [Guides](#guides)
 * [Articles](#articles)
+  * [Tips and Tricks](#tips-and-tricks)
+  * [Tutorials](#tutorials)
 * [Community](#community)
 * [Other](#other)
 * [Plugins](#plugins)
@@ -21,16 +23,20 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
 - [Documentation](http://www.bohemiancoding.com/sketch/support/documentation/)
 
 ## Articles
+#### Tips and Tricks
+- [11 tips for prototyping with Sketch](http://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/)
+- [10 Tips & Tricks for Sketch](http://saloon.io/10-tips-tricks-for-sketch/)
+- [7 Tips for Sketch Users](https://medium.com/design-idea/7-tips-for-sketch-users-e09c27c7ce08)
+- [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
+- [5 Tips to Help You Design Faster in Sketch](https://medium.com/product-labs/5-tips-to-help-you-design-faster-in-sketch-a9db54d10a72)
+
+#### Tutorials
 - [Fireworks vs. Sketch](http://unitid.nl/english/spot-the-difference-fireworks-and-sketch-3)
 - [Supercharge your Workflow in Sketch](https://medium.com/@bazdeas/supercharge-your-workflow-in-sketch-ebc9e5274845)
 - [Sketch for Beginners: Design a Login Form Interface](http://webdesign.tutsplus.com/tutorials/sketch-for-beginners-design-a-login-form-interface--cms-21534)
 - [The A to Z of Sketch](http://webdesign.tutsplus.com/articles/the-a-to-z-of-sketch--cms-22030)
-- [7 Tips for Sketch Users](https://medium.com/design-idea/7-tips-for-sketch-users-e09c27c7ce08)
-- [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
 - [Mastering the Bézier Curve in Sketch](https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb)
-- [10 Tips & Tricks for Sketch](http://saloon.io/10-tips-tricks-for-sketch/)
 - [Typography in Sketch 3: Linked Text Styles](https://medium.com/@ericajaclyn/typography-in-sketch-3-linked-text-styles-9946a32af688)
-- [11 tips for prototyping with Sketch](http://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/)
 
 ## Community
 - [TeamSketch](http://teamsketch.io/), a community for Sketch designers powered by Slack
