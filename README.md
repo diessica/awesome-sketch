@@ -67,6 +67,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
   - [Page Switch](https://github.com/mauehara/sketch-page-switch)
   - [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout)
 - Nice-to-have
+  - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
   - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
   - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
 
