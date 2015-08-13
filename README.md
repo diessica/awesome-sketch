@@ -52,6 +52,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
 - (Resources) [SketchApp Resources](http://www.sketchappsources.com/)
 - (Resources) [SketchLand](http://sketch.land)
 - (Resources) [SketchResources](http://sketchresources.com/)
+- (Resources) [Sketchapp TV](http://sketchapp.tv/)
 - [SketchTips](http://www.sketchtips.info/), a blog about Sketch
 - [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
