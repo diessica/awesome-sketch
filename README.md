@@ -2,7 +2,7 @@
 
 > [**Sketch 3**](http://bohemiancoding.com/sketch/) has become very popular in the Design community. How much do you know about it?
 
-A curated list of awesome Sketch videos, articles, guides, whatever, for designers, front-end developers or whoever that wants to learn Sketch.
+A curated list of awesome Sketch videos, articles, plugins, guides, whatever, for designers, developers, or neither.
 
 * [Videos](#videos)
 * [Guides](#guides)
