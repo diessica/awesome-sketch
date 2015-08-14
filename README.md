@@ -14,23 +14,30 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
 * [Plugins](#plugins)
 
 ## Videos
-- **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (29+ *awesome* lessons)
+###### Tutorial-only
+- **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (22 *awesome* lessons for beginners)
+- [Exploring Sketch plugins](https://www.youtube.com/playlist?list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9)
 - [LearnSketch channel](https://www.youtube.com/user/learnsketch/videos)
+
+###### Process of designing dashboards, mobile apps
+- [Sketch 3 Workflow playlist](https://www.youtube.com/playlist?list=PLdOb4Jg-Lxg-g4NyfQZkgkfwXJpMFwo5E)
+- [SketchApp TV playlists](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ/playlists)
 - [Sketch 3 for iOS App Design Step by Step](https://www.youtube.com/watch?v=6SyFaRNVuUA)
+
 
 ## Guides
 - [Sketch Shortcuts](http://sketchshortcuts.com/)
 - [Documentation](http://www.bohemiancoding.com/sketch/support/documentation/)
 
 ## Articles
-#### Tips and Tricks
+###### Tips and Tricks
 - [11 tips for prototyping with Sketch](http://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/)
 - [10 Tips & Tricks for Sketch](http://saloon.io/10-tips-tricks-for-sketch/)
 - [7 Tips for Sketch Users](https://medium.com/design-idea/7-tips-for-sketch-users-e09c27c7ce08)
 - [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
 - [5 Tips to Help You Design Faster in Sketch](https://medium.com/product-labs/5-tips-to-help-you-design-faster-in-sketch-a9db54d10a72)
 
-#### Tutorials
+###### Tutorials
 - [Fireworks vs. Sketch](http://unitid.nl/english/spot-the-difference-fireworks-and-sketch-3)
 - [Supercharge your Workflow in Sketch](https://medium.com/@bazdeas/supercharge-your-workflow-in-sketch-ebc9e5274845)
 - [Sketch for Beginners: Design a Login Form Interface](http://webdesign.tutsplus.com/tutorials/sketch-for-beginners-design-a-login-form-interface--cms-21534)
@@ -59,18 +66,19 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
 ## Plugins 
 > A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
 
-- Must-have
-  - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
-  - [RenameIt](https://github.com/rodi01/RenameIt)
-  - [Sketch Measure](https://github.com/utom/sketch-measure)
-  - [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
-  - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
-  - [Page Switch](https://github.com/mauehara/sketch-page-switch)
-  - [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout)
-- Nice-to-have
-  - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
-  - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
-  - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
+###### Must-have
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
+- [RenameIt](https://github.com/rodi01/RenameIt)
+- [Sketch Measure](https://github.com/utom/sketch-measure)
+- [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
+- [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
+- [Page Switch](https://github.com/mauehara/sketch-page-switch)
+- [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout)
+
+###### Nice-to-have
+- [Handy Tools](https://github.com/webpatch/Handy-Tools/)
+- [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
+- [Easier.cc](http://easier.cc/) (Files up to 5 MB)
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
@@ -81,8 +89,6 @@ A curated list of awesome Sketch videos, articles, guides, whatever, for designe
 
 ## Keep up to date!
 Sketch has got a **fast-growing community**. Joining them (*see [Community](#community) section ↑*), following their [blog](http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://bohemian.curated.co/) are the best ways to keep up to date so far.
-
-Also check out more [awesome lists](https://github.com/sindresorhus/awesome) ;-)
 
 ---
 
