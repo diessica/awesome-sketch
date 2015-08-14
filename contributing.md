@@ -13,6 +13,7 @@
 ## Format rules
 - Check your **spelling and grammar**. Yeah, it includes *capitalized titles*. No, it doesn't include This Kind Of Capitalization.
 - Make sure your text editor is set to remove trailing whitespace.
+- When adding a item, section or subsection, **do not forget to add an anchor link** in the table of contents, matching the current list format.
 
 ## Adding items
 Additions should be added to the bottom of the relevant category, and in the following format:
