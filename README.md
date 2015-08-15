@@ -28,6 +28,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [SketchApp TV playlists](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ/playlists)
 - [Sketch 3 for iOS App Design Step by Step](https://www.youtube.com/watch?v=6SyFaRNVuUA)
 
+###### General screencasts
+- [SketchCasts](http://www.sketchcasts.net/)
 
 ## Guides
 - [Sketch Shortcuts](http://sketchshortcuts.com/)
@@ -55,11 +57,12 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Facebook group](https://www.facebook.com/groups/sketchformac/)
 - [on Reddit](http://www.reddit.com/r/sketchapp)
 - [SketchTalk](http://sketchtalk.io/), unofficial forum
+- [Sketch Hunt](http://sketchhunt.com/)
+- [Designer News](https://www.designernews.co/) *(people talk a lot about Sketch there!)*
 
 ## Other
 - (Newsletter) [Sketch official newsletter](https://bohemian.curated.co/)
 - (Newsletter) [Sketch tricks](http://sketchtricks.com/)
-- (Screencast) [SketchCasts](http://www.sketchcasts.net/)
 - (Resources) [SketchApp Resources](http://www.sketchappsources.com/)
 - (Resources) [SketchLand](http://sketch.land)
 - (Resources) [SketchResources](http://sketchresources.com/)
@@ -90,6 +93,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources in [Other](#other) section ↑
+- In the [Sketch community](#community)
 
 ## Keep up to date!
 Sketch has got a **fast-growing community**. Joining them (*see [Community](#community) section ↑*), following their [blog](http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://bohemian.curated.co/) are the best ways to keep up to date so far.
