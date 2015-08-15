@@ -14,8 +14,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
   * [Tips and Tricks](#tips-and-tricks)
   * [Tutorials](#tutorials)
 * [Community](#community)
-* [Other](#other)
 * [Plugins](#plugins)
+* [Other](#other)
 
 ## Videos
 ###### Tutorial-only
@@ -29,7 +29,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Sketch 3 for iOS App Design Step by Step](https://www.youtube.com/watch?v=6SyFaRNVuUA)
 
 ###### General screencasts
-- [SketchCasts](http://www.sketchcasts.net/)
+- [SketchCasts](http://www.sketchcasts.net/) *(paid mostly)*
 
 ## Guides
 - [Sketch Shortcuts](http://sketchshortcuts.com/)
@@ -60,16 +60,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Sketch Hunt](http://sketchhunt.com/)
 - [Designer News](https://www.designernews.co/) *(people talk a lot about Sketch there!)*
 
-## Other
-- (Newsletter) [Sketch official newsletter](https://bohemian.curated.co/)
-- (Newsletter) [Sketch tricks](http://sketchtricks.com/)
-- (Resources) [SketchApp Resources](http://www.sketchappsources.com/)
-- (Resources) [SketchLand](http://sketch.land)
-- (Resources) [SketchResources](http://sketchresources.com/)
-- (Resources) [Sketchapp TV](http://sketchapp.tv/)
-- [SketchTips](http://www.sketchtips.info/), a blog about Sketch
-- [sketch-tricks on Medium](https://medium.com/sketch-tricks)
-
 ## Plugins 
 > A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
 
@@ -92,8 +82,18 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
-- Websites related to resources in [Other](#other) section ↑
+- Websites related to resources (see [Other](#other) section).
 - In the [Sketch community](#community)
+
+## Other
+- (Newsletter) [Sketch official newsletter](https://bohemian.curated.co/)
+- (Newsletter) [Sketch tricks](http://sketchtricks.com/)
+- (Resources) [SketchApp Resources](http://www.sketchappsources.com/)
+- (Resources) [SketchLand](http://sketch.land)
+- (Resources) [SketchResources](http://sketchresources.com/)
+- (Resources) [Sketchapp TV](http://sketchapp.tv/)
+- [SketchTips](http://www.sketchtips.info/), a blog about Sketch
+- [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
 ## Keep up to date!
 Sketch has got a **fast-growing community**. Joining them (*see [Community](#community) section ↑*), following their [blog](http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://bohemian.curated.co/) are the best ways to keep up to date so far.
