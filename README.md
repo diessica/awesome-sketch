@@ -15,6 +15,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
   * [Tutorials](#tutorials)
 * [Community](#community)
 * [Plugins](#plugins)
+* [Templates & UI Kits](#templates--ui-kits)
 * [Other](#other)
 
 ## Videos
