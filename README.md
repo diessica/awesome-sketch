@@ -6,7 +6,7 @@ A curated list of awesome Sketch videos, articles, plugins, whatever, for design
 
 Found something cool? Please, **[contribute](contributing.md)**!
 
--- 
+--
 
 * [Videos](#videos)
 * [Guides](#guides)
@@ -61,7 +61,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Sketch Hunt](http://sketchhunt.com/)
 - [Designer News](https://www.designernews.co/) *(people talk a lot about Sketch there!)*
 
-## Plugins 
+## Plugins
 > A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
 
 ###### Must-have
@@ -99,6 +99,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - (Resources) [SketchLand](http://sketch.land)
 - (Resources) [SketchResources](http://sketchresources.com/)
 - (Resources) [Sketchapp TV](http://sketchapp.tv/)
+- (Resources) [Sketch Repo](http://sketchrepo.com/)
 - [SketchTips](http://www.sketchtips.info/), a blog about Sketch
 - [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
