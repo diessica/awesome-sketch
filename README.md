@@ -101,6 +101,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - (Resources) [SketchResources](http://sketchresources.com/)
 - (Resources) [Sketchapp TV](http://sketchapp.tv/)
 - (Resources) [Sketch Repo](http://sketchrepo.com/)
+- [SketchApp Rocks](http://sketchapp.rocks/)
 - [SketchTips](http://www.sketchtips.info/), a blog about Sketch
 - [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
