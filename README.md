@@ -18,7 +18,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Templates & UI Kits](#templates--ui-kits) :scissors:
 * [Other](#other)
 
-## Videos :movie_camera:
+## Videos
 ###### Tutorial-only
 - **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (25 *awesome* lessons for beginners)
 - [Exploring Sketch plugins](https://www.youtube.com/playlist?list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9)
@@ -32,11 +32,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ###### General screencasts
 - [SketchCasts](http://www.sketchcasts.net/) *(paid mostly)*
 
-## Guides :blue_book:
+## Guides
 - [Sketch Shortcuts](http://sketchshortcuts.com/)
 - [Documentation](http://www.bohemiancoding.com/sketch/support/documentation/)
 
-## Articles :newspaper:
+## Articles
 ###### Tips and Tricks
 - [11 tips for prototyping with Sketch](http://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/)
 - [10 Tips & Tricks for Sketch](http://saloon.io/10-tips-tricks-for-sketch/)
@@ -52,7 +52,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Mastering the Bézier Curve in Sketch](https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb)
 - [Typography in Sketch 3: Linked Text Styles](https://medium.com/@ericajaclyn/typography-in-sketch-3-linked-text-styles-9946a32af688)
 
-## Community :sunglasses:
+## Community
 - [TeamSketch](http://teamsketch.io/), a community for Sketch designers powered by Slack
 - [Google+ group](https://plus.google.com/communities/105292892811319179094)
 - [Facebook group](https://www.facebook.com/groups/sketchformac/)
@@ -61,7 +61,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Sketch Hunt](http://sketchhunt.com/)
 - [Designer News](https://www.designernews.co/) *(people talk a lot about Sketch there!)*
 
-## Plugins :electric_plug:
+## Plugins
 > A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
 
 ###### Must-have :heart:
@@ -86,7 +86,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - Websites related to resources (see [Other](#other) section).
 - In the [Sketch community](#community)
 
-## Templates & UI Kits :scissors:
+## Templates & UI Kits
 - [Responsive Web Design Template](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
 - [Sketch iOS Templates](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
 - [Teracy Wireframe Kit](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
