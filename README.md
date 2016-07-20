@@ -33,6 +33,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [SketchCasts](http://www.sketchcasts.net/) *(paid mostly)*
 
 ## Guides
+- [A Guide to Sketch](https://readymag.com/u91593485/guidetosketch/)
 - [Sketch Shortcuts](http://sketchshortcuts.com/)
 - [Documentation](http://www.bohemiancoding.com/sketch/support/documentation/)
 
