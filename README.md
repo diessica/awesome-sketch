@@ -78,6 +78,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
 - [User Flow](https://github.com/abynim/UserFlows)
+- [Sketch Runner](http://sketchrunner.com)
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
