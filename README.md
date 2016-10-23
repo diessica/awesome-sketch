@@ -80,6 +80,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
 - [User Flow](https://github.com/abynim/UserFlows)
 - [Sketch Runner](http://sketchrunner.com)
+- [Efficiency](https://github.com/x-raizor/Efficiency)
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
