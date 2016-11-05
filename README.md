@@ -37,6 +37,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [A Guide to Sketch](https://readymag.com/u91593485/guidetosketch/)
 - [Sketch Shortcuts](http://sketchshortcuts.com/)
 - [Documentation](http://www.bohemiancoding.com/sketch/support/documentation/)
+- [Switch to Sketch](https://www.switchtosketchapp.com/)
 
 ## Articles
 ###### Tips and Tricks
