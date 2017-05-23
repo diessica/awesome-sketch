@@ -65,7 +65,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Designer News](https://www.designernews.co/) *(people talk a lot about Sketch there!)*
 
 ## Plugins
-> A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
+> A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
