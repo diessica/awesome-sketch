@@ -102,8 +102,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Avocode](https://avocode.com) – get CSS, export assets, measure and handpick colors.
 - Invision Inspect – it gives developers access to measurements, colors, and assets from a designer’s prototype
 - [Sympli](https://sympli.io)
-- [Kactus](https://kactus.io/) - Git style version control for Sketch.
-
+- [Kactus](https://kactus.io/) - Git-style version control for Sketch.
+- [Abstract](https://www.goabstract.com/) - Version control and collaboration for Sketch files.
 
 ## Other
 - (Newsletter) [Sketch official newsletter](https://bohemian.curated.co/)
