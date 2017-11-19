@@ -101,7 +101,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Marvel](https://marvelapp.com) - design, prototyping and collaboration
 - [Avocode](https://avocode.com) – get CSS, export assets, measure and handpick colors.
 - Invision Inspect – it gives developers access to measurements, colors, and assets from a designer’s prototype
-- [Sympli](https://sympli.io)
+- [Sympli](https://sympli.io) – design hand-off and collaboration tool, also integrates with Xcode and Android Studio
 - [Abstract](https://www.goabstract.com/) - Version control and collaboration for Sketch files.
 
 
