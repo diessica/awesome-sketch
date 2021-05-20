@@ -92,6 +92,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - In the [Sketch community](#community)
 
 ## Templates & UI Kits
+- [Free Sketch Bootstrap 5 UI Kit 🎉](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/) - Design faster with a collection of prebuilt Sketch components with powerful auto layout and resizing constraints. 🚀
 - [Responsive Web Design Template](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
 - [Sketch iOS Templates](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
 - [Teracy Wireframe Kit](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
